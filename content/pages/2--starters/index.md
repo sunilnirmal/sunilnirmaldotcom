@@ -1,20 +1,15 @@
 ---
-title: Other GatsbyJs starters
-menuTitle: My starters
+title: My Projects
+menuTitle: My Projects
 ---
 
-[Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
+### AWS Config
+[AWS Config](https://aws.amazon.com/config/) is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations. With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines. This enables you to simplify compliance auditing, security analysis, change management, and operational troubleshooting.
 
-![SimpleLanding](./gatsby-starter-simple-landing.png)
+### AWS Trusted Advisor
+[AWS Trusted Advisor](www.aws.amazon.com/trusted-advisor) is an online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment, Trusted Advisor provides real time guidance to help you provision your resources following AWS best practices.
 
-### SimpleLanding
+### Kumo 
+AWS Support tools development team. We enable support engineers to assist AWS customers. 
 
-As the name says, it is a landing page starter.
-[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)
-
-![StyledBlog](./gatsby-styled-blog-starter.jpg)
-
-### StyledBlog
-
-That was my first Gatsby starter. It is a forefather of the starter you are looking at now.
-[Github repo](https://github.com/greglobinski/gatsby-styled-blog-starter)
+![Teams](./Teams.jpg)

@@ -1,32 +1,33 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
+  siteTitle: "Sunny - Personal blog of Sunil Nirmal", // <title>
+  shortSiteTitle: "Personal blog of Sunil Nirmal", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteUrl: "https://sunilnirmal.dev",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Sunil Nirmal",
+  authorTwitterAccount: "sunilmemphis2",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "Sunil Nirmal",
   infoTitleNote: "personal blog",
+  menuTitle: "personalBlog",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
   manifestShortName: "PersonalBlog", // max 12 characters
   manifestStartUrl: "/",
-  manifestBackgroundColor: colors.background,
-  manifestThemeColor: colors.background,
+  manifestBackgroundColor: colors.dark,
+  manifestThemeColor: colors.dark,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "sunilnirmalkumar@gmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "linkedin", url: "https://www.linkedin.com/in/sunilnirmal" },
+    { name: "github", url: "https://github.com/sunilnirmal" },
+    { name: "twitter", url: "https://twitter.com/sunilmemphis2" }
   ]
 };
